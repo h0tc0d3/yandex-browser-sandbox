@@ -1,5 +1,7 @@
 # Yandex Browser Sandbox
 
+![Терморектальный криптоанализ](./major.png)
+
 A Bash launcher for running Yandex Browser inside [Bubblewrap](https://github.com/containers/bubblewrap) on Linux with Wayland. It adds an outer layer of filesystem, namespace, D-Bus and syscall isolation while preserving the browser's own Chromium sandbox.
 
 ## Features
